@@ -1,0 +1,25 @@
+# Dados (nunca versionar)
+data/
+*.csv
+*.zip
+*.h5
+*.pt
+*.pth
+
+# Ambientes
+__pycache__/
+*.py[cod]
+.env
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Modelos treinados (binários grandes)
+models/
+*.ckpt
+
+# Sistema
+.DS_Store
+Thumbs.db
