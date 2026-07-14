@@ -1,10 +1,10 @@
 # Dados (nunca versionar)
-data/
-*.csv
+data/raw/
 *.zip
 *.h5
 *.pt
 *.pth
+*.ckpt
 
 # Ambientes
 __pycache__/
