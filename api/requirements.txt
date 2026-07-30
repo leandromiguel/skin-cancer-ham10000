@@ -1,0 +1,9 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+fastapi==0.110.0
+uvicorn==0.28.0
+torch==2.1.2+cpu
+torchvision==0.16.2+cpu
+Pillow==10.2.0
+numpy==1.26.3
+timm==0.9.12
+python-multipart==0.0.9
