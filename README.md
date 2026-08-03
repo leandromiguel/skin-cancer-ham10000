@@ -50,5 +50,5 @@ O processo pode ser acompanhado por meio de
     https://www.kaggle.com/code/jonhlucasalves/efficient-swin-skin-classification
 na sua versão mais recentes `codigo final`.
 ## Equipe
-- 
-- 
+- Leandro Miguel
+- Jonh Lucas
